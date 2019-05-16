@@ -1,0 +1,4 @@
+.hg/
+Debug/
+.vs/
+.hgignore
